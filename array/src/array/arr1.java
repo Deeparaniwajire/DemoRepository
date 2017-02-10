@@ -7,6 +7,7 @@ public class arr1 {
 	{
 		int arr[]={5,6,1,8,2,3,4};
 		Scanner scan=new Scanner(System.in);
+		System.out.println("hello all");
 		for(int temp :arr)
 		{
 			System.out.println(temp);
